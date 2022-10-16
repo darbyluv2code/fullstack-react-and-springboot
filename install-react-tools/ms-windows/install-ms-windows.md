@@ -15,7 +15,7 @@ This course has been tested with the following software versions:
 * npm 7.24.0
 * node 16.10.0
 * tsc 4.6.4
-* Angular 14
+* React 18.2.0
 * Spring Boot 2.7.1 
 
 It is **highly recommended** that you use the versions listed above to make sure you do not encounter any issues with the course. If you choose to use other versions then the code may not work as expected.
