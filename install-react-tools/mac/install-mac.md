@@ -13,11 +13,11 @@ In this guide, we will install the following development tools
 This course has been tested with the following software versions:
 
 * nvm 0.35.0
-* npm 7.24.0
-* node 16.10.0
-* tsc 4.6.4
+* npm 8.15
+* node 16.17.0
+* tsc 4.7.4
 * React 18.2.0
-* Spring Boot 2.7.1 
+* Spring Boot 2.7.3 
 
 It is **highly recommended** that you use the versions listed above to make sure you do not encounter any issues with the course. If you choose to use other versions then the code may not work as expected.
 
@@ -192,24 +192,24 @@ In this course, we'll use Node to run applications that we develop using TypeScr
 
 ## Switch Node Versions
 
-> Note: This course has been tested with Node 16.10. We will install this version.
+> Note: This course has been tested with Node 16.17. We will install this version.
 
-1. Install and use Node 16.10
+1. Install and use Node 16.17
 
     ```bash
-    nvm install 16.10.0
-    nvm use 16.10.0
+    nvm install 16.17.0
+    nvm use 16.17.0
     ```
 
 ## Install tsc
 tsc is the TypeScript compiler. We use tsc to compile TypeScript code into JavaScript code. We can install the TypeScript compiler using the Node Package Manager (npm)
 
-> Note: This course has been tested with TypeScript 4.6. We will install this version.
+> Note: This course has been tested with TypeScript 4.7. We will install this version.
 
 1. In your terminal window, enter the following command
 
     ```
-    npm install --location=global typescript@4.6.4
+    npm install --location=global typescript@4.7.4
     ```
 
    The `--location=global` installs this as a global package. The TypeScript compiler will be available to all directories for this user.
