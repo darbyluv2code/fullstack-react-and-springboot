@@ -1,5 +1,7 @@
 # Full Stack: React and Spring Boot
 
+[<img src="images/react-spring-boot-grabber-thumbnail.png" alt="Full Stack: React and Spring Boot"  width="400" />](bit.ly/3EcIvFP)
+
 
 ## React Installation Guides
 
