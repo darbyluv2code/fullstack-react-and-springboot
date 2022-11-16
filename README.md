@@ -1,7 +1,7 @@
 # Full Stack: React and Spring Boot
 
 
-## Angular Installation Guides
+## React Installation Guides
 
 * [Linux](install-react-tools/linux/install-linux.md)
 
