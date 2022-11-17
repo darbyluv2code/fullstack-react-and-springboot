@@ -3,7 +3,7 @@
 }
 
 .header {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("./../public/image-2.jpg");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("./Images/PublicImages/image-2.jpg");
     opacity: var(--mainOpacity);
     height: 25em !important;
 }
@@ -22,20 +22,26 @@ background-color: #0e76a8 ;
 }
 
 .col-image-left {
-    background-image: url("./../public/image-4.jpg");
+    background-image: url("./Images/PublicImages/image-4.jpg");
     height: 25em !important;
 }
 
 .col-image-right {
-    background-image: url("./../public/image-1.jpg");
+    background-image: url("./Images/PublicImages/image-1.jpg");
     height: 25em !important;
 }
 
 .lost-image {
-    background-image: url("./../public/image-3.jpg");
+    background-image: url("./Images/PublicImages/image-3.jpg");
     height: 25em !important;
     width: "720"
 }
+
+.homepage-carousel-title {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
 
 .book-div {
     width: 480px;
