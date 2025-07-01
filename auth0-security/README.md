@@ -78,7 +78,7 @@ npm install @auth0/auth0-react
 
 ## 5. Create/ Update `auth0Config.ts`
 
-`File : src\lib\auth0Config.ts`
+File : src\lib\auth0Config.ts
 
 ```
 export const auth0Config = {
@@ -105,7 +105,7 @@ export const auth0Config = {
 ## 6. Add LoginPage.jsx
 Create login page and add the code as shown below:
 
-`File : LoginPage.jsx`
+File : LoginPage.jsx
 
 ```
 import React from 'react';
