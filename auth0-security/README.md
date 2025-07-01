@@ -13,7 +13,7 @@ This tutorial assumes that you have already completed the section **“Library P
 1. Create Application and provide Application Information
 1. Create API
 1. Install Auth0 dependencies
-1. Create/ Update `lib\auth0Config.ts`
+1. Create/ Update `lib/auth0Config.ts`
 1. Add Login Status Component
 1. Update `App.tsx`
 1. Add Logout Functionality
@@ -78,7 +78,7 @@ npm install @auth0/auth0-react
 
 ## 5. Create/ Update `auth0Config.ts`
 
-File : src\lib\auth0Config.ts
+File : src/lib/auth0Config.ts
 
 ```
 export const auth0Config = {
@@ -90,7 +90,7 @@ export const auth0Config = {
 }
 ```
 
-Example (lib\auth0Config.ts): 
+Example (lib/auth0Config.ts): 
 
 ```
 export const auth0Config = {
