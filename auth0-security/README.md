@@ -45,7 +45,7 @@ Add Application URIs
 - **Allowed Web Origins**: http://localhost:3000
 - **Allowed Origins (CORS)**: http://localhost:3000
 
-!(images/create-app-01.png)
+![](images/create-app-01.png)
 
 !(images/create-app-02.png)
 
