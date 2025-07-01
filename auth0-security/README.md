@@ -718,7 +718,7 @@ export const BookCheckoutPage = () => {
 ```
 
 
-** Follow the same procedure and update authentication details for the below files: **
+**Follow the same procedure and update authentication details for the below files:**
 - src/layouts/HomePage/components/LibraryServices.tsx
 - src/layouts/ManageLibraryPage/ManageLibraryPage.tsx
 - src/layouts/ManageLibraryPage/components/AddNewBook.tsx
