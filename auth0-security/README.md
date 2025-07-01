@@ -47,9 +47,9 @@ Add Application URIs
 
 ![](images/create-app-01.png)
 
-!(images/create-app-02.png)
+![](images/create-app-02.png)
 
-!(images/create-app-03.png)
+![](images/create-app-03.png)
 
 Click *Save*
 
@@ -63,9 +63,9 @@ Click *Save*
 1. Identifier: << BACKEND API URI >> Ex: http://localhost:8080
 1. Create
 
-!(images/create-api-01.png)
+![](images/create-api-01.png)
 
-!(images/create-api-02.png)
+![](images/create-api-02.png)
 
 ---
 
@@ -1273,7 +1273,7 @@ public class AdminController {
 
 * Name: custom-claim-post-login
 
-!(images/admin-01.png)
+![](images/admin-01.png)
 
 
 * Click on Deploy
@@ -1295,9 +1295,9 @@ exports.onExecutePostLogin = async (event, api) => {
 };
 ```
 
-!(images/admin-02.png)
+![](images/admin-02.png)
 
-!(images/admin-03.png)
+![](images/admin-03.png)
 
 
 
@@ -1305,11 +1305,11 @@ exports.onExecutePostLogin = async (event, api) => {
 Note: namespace can be anything; But, use the same name to fetch roles in frontend and backend
 
 * Frontend:
-!(images/admin-04.png)
+![](images/admin-04.png)
 
 
 * Backend:
-!(images/admin-05.png)
+![](images/admin-05.png)
 
 
 ## 13. Run the Application
