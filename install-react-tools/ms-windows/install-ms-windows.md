@@ -11,11 +11,11 @@ In this guide, we will install the following development tools
 
 This course has been tested with the following software versions:
 
-* npm 8.15
-* node 16.17.0
-* tsc 4.7.4
-* React 18.2.0
-* Spring Boot 2.7.3 
+* npm 11.17.0
+* node 24.19.0
+* tsc 7.0.2
+* React 19.1.0
+* Spring Boot 4.1.0
 
 It is **highly recommended** that you use the versions listed above to make sure you do not encounter any issues with the course. If you choose to use other versions then the code may not work as expected.
 
@@ -35,9 +35,9 @@ Node is the the runtime environment for executing JavaScript code from the comma
 
 In this course, we'll use Node to run applications that we develop using TypeScript and React.
 
-> Note: This course has been tested with Node 16.17.0. We will install this version.
+> Note: This course has been tested with Node 24.19.0. We will install this version.
 
-1. In your web browser, visit https://nodejs.org/download/release/v16.17.0/
+1. In your web browser, visit https://nodejs.org/download/release/v24.19.0/
 
 2. Select the **Windows Installer (.msi)** for your system (32-bit or 64-bit)
 
@@ -72,12 +72,12 @@ In this course, we'll use Node to run applications that we develop using TypeScr
 ## Install tsc
 tsc is the TypeScript compiler. We use tsc to compile TypeScript code into JavaScript code. We can install the TypeScript compile using the Node Package Manager (npm)
 
-> Note: This course has been tested with TypeScript 4.7. We will install this version.
+> Note: This course has been tested with TypeScript 7.0.2. We will install this version.
 
 1. In your **Command Prompt** window, enter the following command
 
     ```
-    npm install --location=global typescript@4.7.4
+    npm install --location=global typescript@7.0.2
     ```
 
    The "--location=global" installs this as a global package. The TypeScript compiler will be available to all directories for this user.
@@ -131,4 +131,4 @@ That's it! You have successfully installed the development tools: Visual Studio 
     *This troubleshooting tip was contributed by **Chris**. Thanks Chris!!*
 
 ---
-&copy; 2022, [luv2code LLC](http://www.luv2code.com) - All rights reserved.
+&copy; 2026, [luv2code LLC](http://www.luv2code.com) - All rights reserved.
