@@ -15,7 +15,8 @@ This course has been tested with the following software versions:
 * node 24.19.0
 * tsc 7.0.2
 * React 19.1.0
-* Spring Boot 4.1.0
+* Java 27
+* Spring Boot 4.1.2
 
 It is **highly recommended** that you use the versions listed above to make sure you do not encounter any issues with the course. If you choose to use other versions then the code may not work as expected.
 
@@ -73,6 +74,8 @@ In this course, we'll use Node to run applications that we develop using TypeScr
 tsc is the TypeScript compiler. We use tsc to compile TypeScript code into JavaScript code. We can install the TypeScript compile using the Node Package Manager (npm)
 
 > Note: This course has been tested with TypeScript 7.0.2. We will install this version.
+
+> Note: The React project in this course uses its own local TypeScript version (5.8.3), which `npm install` adds to the project. The global tsc installed here is for compiling TypeScript files from the command line. Having two different versions is expected.
 
 1. In your **Command Prompt** window, enter the following command
 
