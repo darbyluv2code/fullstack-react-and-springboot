@@ -18,7 +18,7 @@ This course has been tested with the following software versions:
 * tsc 7.0.2
 * React 19.1.0
 * Java 27
-* Spring Boot 4.1.2
+* Spring Boot 4.2.0
 
 It is **highly recommended** that you use the versions listed above to make sure you do not encounter any issues with the course. If you choose to use other versions then the code may not work as expected.
 
